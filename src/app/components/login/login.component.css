@@ -1,0 +1,17 @@
+.bg-img {
+ 
+    background-image: url("https://i.pinimg.com/736x/e3/1f/dc/e31fdcb921fa62efac61ed02a93f4d0d.jpg");
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  h2{
+    padding-top: 2.0rem;
+    color: white;
+    font-size: 40px;
+  }
+  .checkbox{
+      color: white;
+  }
